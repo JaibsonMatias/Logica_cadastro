@@ -1,0 +1,1 @@
+Nome: jaibson -Login: jai -Senha: 123 -Email: jaibso@gmail.com -Data: 09/09/1982 -Telefone: 11968036455 -Endereço: {'Rua': 'Antonio Mendes', 'Numero': '193', 'Complemento': 'casa 2', 'Bairro': 'Vila nova Utinga', 'CEP': '03258060', 'Cidade': 'São paulo', 'Referencia': 'travessa ana clara'}
